@@ -8,7 +8,7 @@ public class _01_NAryArrangement {
      * 第二章 n 阶行列式
      * S1：n元排列 P28
      * 1.判断排列是 是奇、偶排列
-     * 2.求逆序数（逆序对 的数目 ）τ（
+     * 2.求逆序数（逆序对 的数目 ）τ
      * Such as: τ(2431)= 4 >(21 43 41 31)
      * if τ is odd number the det is - else + τ的奇偶决定行列式该项的正负
      */
