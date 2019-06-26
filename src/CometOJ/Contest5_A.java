@@ -1,11 +1,11 @@
 package CometOJ;
-
 import java.util.Scanner;
 
 /**
  * @Test https://cometoj.com/contest/46/problem/A?problem_id=2021
  * @Author Dxoca
  */
+
 public class Contest5_A {
     public static void main(String[] args){
         Scanner cin =new Scanner(System.in);
