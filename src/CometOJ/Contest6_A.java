@@ -2,6 +2,10 @@ package CometOJ;
 
 import java.util.Scanner;
 
+/**
+ * 图游戏
+ * https://www.cometoj.com/contest/48
+ */
 public class Contest6_A {
     public static void main(String[] args){
         Scanner cin =new Scanner(System.in);
