@@ -22,7 +22,6 @@ public class P2089 {
                                         for (int i = 1; i <=3; i++) {
                                             for (int j = 1; j <=3; j++) {
                                                 if(a+b+c+d+e+f+g+h+i+j==k){
-
                                                     ans.append(a+" "+b+" "+c+" "+d+" "+e+" "+f+" "+g+" "+h+" "+i+" "+j+"\n");
                                                     count++;
                                                 }
@@ -35,7 +34,6 @@ public class P2089 {
                     }
                 }
             }
-
         }
         System.out.println(count);
         System.out.println(ans);
