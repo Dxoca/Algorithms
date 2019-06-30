@@ -3,6 +3,7 @@ package LuoGu;
 import java.util.Scanner;
 
 /**
+ * P1478 陶陶摘苹果（升级版）
  * importance：最多可以宅多少个
  * 最暴力的的方法。
  * 2019年6月30日 14:19:49
