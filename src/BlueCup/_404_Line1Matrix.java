@@ -66,9 +66,7 @@ public class _404_Line1Matrix {
         int n = N;
         while (n > 0) {
             for (int i = 0; i < N - 1; i++) {//行
-
                 if (i + n> N) break;
-
                 for (int j = 0; j < N - 1; j++) {
                     if (j + n > N) break;
                     if (check(i, j, n)) {

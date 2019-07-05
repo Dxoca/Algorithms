@@ -5,27 +5,25 @@ import java.util.Scanner;
 public class P1426 {
     public static void main(String[] args) {
         Scanner cin =new Scanner(System.in);
-        int s=cin.nextInt(),x=cin.nextInt();//距离A x左右范围
-        double A=7.0;
+        double s=cin.nextInt(),x=cin.nextInt();//距离A x左右范围
+        double l=0,v=7;
         int count=0;
-        boolean live=true;
-        while("QAQ"!=("qaq")){
-            if(A>s+x)//直接,,安全了
+        boolean live=true;//
+        while (true){
+            if(l>s+x){//超过检测器最右边
                 break;
-            else if(A<=s+x&&A>=s-x){//当前秒结束
+            }else if(l>=s-x){
                 count++;
-                if(count>=2){
-                    live=false;//第二秒还在 就死
+                if(count==2){
+                    live=false;
                     break;
                 }
-            }else if(count==1){
-                break;
             }
-            A+=A*0.98; //从第二秒开始A=A+A0.89=A=
-//            System.out.println(i+":"+A);
+            l+=v;
+            v*=0.98;
         }
         if(live){
-            System.out.println("n");
+            System.out.println("n");//没有危险
         }else
             System.out.println("y");
 

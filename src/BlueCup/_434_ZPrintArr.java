@@ -14,7 +14,6 @@ public class _434_ZPrintArr {
         Check(arr);
 
     }
-
     private static void Check(int[][] arr) {
         int r = 0, c = 0;//行列
         int m = arr.length, n = arr[0].length;//最大行列
