@@ -3,7 +3,6 @@ package BlueCup;
 public class _404_Line1Matrix {
     static int rec[][][];//打表初始化
     // (右,下)
-
     public static void main(String[] args) {
         //边界为1的最大子方阵列
         int[][] Matrix = {
@@ -24,7 +23,6 @@ public class _404_Line1Matrix {
         int N = A.length;
         rec = new int[N][N][2];
         int row=N-1;
-
         for (int j = row; j >= 0; j--) {//最后一行
             int value = A[row][j];
             if (value == 1) {
@@ -35,7 +33,6 @@ public class _404_Line1Matrix {
                 }
                 rec[row][j][1] = 1;//最后一行下为0 所以➕自己
             }
-
         }
         for (int i = row - 1; i >= 0; i--) {//最后一行以及初始化完了所以 开始上一行
             for (int j = N - 1; j >= 0; j--) {
