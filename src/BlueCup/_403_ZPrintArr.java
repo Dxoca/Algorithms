@@ -1,6 +1,6 @@
 package BlueCup;
 
-public class _434_ZPrintArr {
+public class _403_ZPrintArr {
     //Z形打印 1 2 5 9 0 3 4 7 10 13 0 11 模拟
     public static void main(String[] args) {
         int[][] arr = {
