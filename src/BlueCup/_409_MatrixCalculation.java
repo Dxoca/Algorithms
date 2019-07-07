@@ -7,6 +7,7 @@ import java.util.Scanner;
  * M 行  N 列
  *
  */
+
 public class _409_MatrixCalculation {
     public static void main(String[] args) {
         Scanner cin =new Scanner(System.in);
