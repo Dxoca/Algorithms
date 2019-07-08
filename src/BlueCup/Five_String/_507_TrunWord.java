@@ -12,7 +12,7 @@ public class _507_TrunWord {
         System.out.println(anss);
 
     }
-
+    //模拟 比较
     private static boolean isRotates(String a, String b) {
         StringBuilder sb = new StringBuilder(b).append(b);
         for (int i = 0, k = 0; i < sb.length(); i++) {//i是父串 k是子串
@@ -26,7 +26,7 @@ public class _507_TrunWord {
         }
         return false;
     }
-
+    //java API比较
     private static boolean isRotate(String a, String b) {//a 是否是b的旋转词
         //b+b
         StringBuilder sb = new StringBuilder(b).append(b);
