@@ -14,11 +14,10 @@ package BlueCup.Five_String;
 public class _504_Replace_char32 {
     public static void main(String[] args) {
         String str="Mr John Smith";
-//        System.out.println(replaceSpace(str));//Api解法
-       
+//      System.out.println(replaceSpace(str));//Api解法
+
         replaceSpace(str.toCharArray(),str.length());
     }
-
     private static void replaceSpace(char[] str, int length) {
         int count=length;//空格个数
         for (int i = 0; i < length; i++) {
@@ -37,7 +36,6 @@ public class _504_Replace_char32 {
         }
         System.out.println(new String(x,0,count));
     }
-
     //API
     private static String replaceSpace(String str) {
         return str.replaceAll("\\s","%20");
