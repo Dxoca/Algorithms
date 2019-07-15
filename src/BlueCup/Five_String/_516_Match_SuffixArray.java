@@ -23,6 +23,10 @@ import java.util.Arrays;
  *  3.1 把所有后缀数组，放入 Arrays.Sort() nlog(n) 作比较 》》逐字符比较
  *          n个元素 元素和元素之间比较 n
  *          所以整体 【消耗n²log(n)】
+ *   3.2 倍增法
+ *   k=1 一个字符 排序得sa rk
+ *   k=2 利用上一轮的rk快速比较两个后缀
+ *   k=4，k=8...
  *
  */
 public class _516_Match_SuffixArray {
@@ -82,6 +86,7 @@ public class _516_Match_SuffixArray {
                     ",index=" + index + '}';
         }
     }
+    //倍增法
 
 }
 
