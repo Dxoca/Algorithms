@@ -1,7 +1,11 @@
 package LuoGu;
 
 import java.util.Scanner;
-
+/**
+ * 代码 Java 8，1.96KB
+ * 提交时间 2019-07-06 17:09:46
+ * 耗时/内存 547ms, 21760KB
+ */
 //P1014 Cantor表
 public class P1014 {
     public static void main(String[] args) {
