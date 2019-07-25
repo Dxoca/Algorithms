@@ -4,7 +4,7 @@ public class 欧几里得算法 {
     //中国的辗转相除法 求最大公约自公因子
     //4 是 4 8 的 最大公约数
 
-    static long x, y;//全局变量存储 xy的推算
+    public static long x, y;//全局变量存储 xy的推算
 
     public static void main(String[] args) throws Exception {
         //ax+by=ans
