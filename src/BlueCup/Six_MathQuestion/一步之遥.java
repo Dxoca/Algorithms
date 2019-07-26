@@ -10,8 +10,6 @@ public class 一步之遥 {
         try {
             LinearEquation(F,B,1);
             System.out.println(x+" "+y);
-
-
         }catch (Exception e){
             System.out.println(e.getMessage());
         }
