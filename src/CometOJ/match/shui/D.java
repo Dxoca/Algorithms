@@ -1,4 +1,4 @@
-package CometOJ;
+package CometOJ.match.shui;
 
 import java.util.Scanner;
 
@@ -27,6 +27,7 @@ public class D {
             if(ans[i][1]<min)
                 min=ans[i][1];
         }
+        long tmanx=max;
         long maxcount=-1;
         for (long i = min; i <=max ; i++) {
             if(count>maxcount) {
@@ -34,6 +35,8 @@ public class D {
                 count=0;
             }
             for (int j = 0; j < n; j++) {
+                if(i+k>=tmanx)
+                    break;
                 if(ans[j][0]>=i&&ans[j][1]>=i){
                     if(ans[j][0]<=i+k&&ans[j][1]<=i+k) {
                         count++;

@@ -1,4 +1,4 @@
-package CometOJ;
+package CometOJ.match;
 import java.util.Scanner;
 
 /**
