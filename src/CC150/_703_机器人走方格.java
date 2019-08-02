@@ -1,4 +1,4 @@
-package BlueCup.Seven_recursion;
+package CC150;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package BlueCup.Seven_recursion;
+package CC150;
 
 public class _704_硬币问题 {
     public static void main(String[] args) {
