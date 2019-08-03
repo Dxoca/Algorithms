@@ -10,7 +10,8 @@ public class _60_第k个排列 {
     final static int k = 3;//我们要求的第几个字典序的排列
     static int count = 0;
 
-    private static void permutation(String prefix, char[] arr) {
+    private static void
+    permutation(String prefix, char[] arr) {
         if (prefix.length() == arr.length) {//前缀长度=字符集长度 一个排列完成
             count++;
         }
