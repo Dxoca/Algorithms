@@ -8,7 +8,7 @@ public class Dfs2部分和 {
 
     public static void main(String[] args) {
         int[] a = new int[]{1, 2, 4, 7};
-        int n = a.length;
+        int n = a.length;//
         int k = 13;
         kk = k;
         getSubsets(a, n, k);
