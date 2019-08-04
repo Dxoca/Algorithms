@@ -23,7 +23,7 @@ public class Dfs1数独 {
         }
         if (t[x][y] == '0') {
             for (int i = 1; i <= 9; i++) {
-                boolean res = check(t, x, y, i);//检查是否重复 行列矩形内
+                boolean res = check(t, x, y, i);//检查是否重复  行列矩形内
                 if (res) {
                     t[x][y] = (char) ('0' + i);
                     dfs(t, x + (y + 1) / 9, (y + 1) % 9);//状态转移
