@@ -17,13 +17,13 @@ public class Dfs1数独 {
         }
     }
     public static void dfs(char[][] t, int x, int y) {
-        if (x==9){
+        if (x==9){//超出边界
             print(t);
             System.exit(0);//完全结束递归
         }
         if (t[x][y] == '0') {
             for (int i = 1; i <= 9; i++) {
-                boolean res = check(t, x, y, i);
+                boolean res = check(t, x, y, i);//检查是否重复 行列矩形内
                 if (res) {
                     t[x][y] = (char) ('0' + i);
                     dfs(t, x + (y + 1) / 9, (y + 1) % 9);//状态转移
