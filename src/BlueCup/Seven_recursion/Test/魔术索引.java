@@ -1,4 +1,4 @@
-package BlueCup.Seven_recursion;
+package BlueCup.Seven_recursion.Test;
 
 public class 魔术索引 {
     public static void main(String[] args) {
