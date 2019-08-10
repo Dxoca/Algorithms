@@ -1,0 +1,46 @@
+package POJ;
+
+import java.util.Arrays;
+import java.util.Scanner;
+
+import static java.lang.Math.min;
+
+public class _1700_快速过河 {
+    public static void main(String[] args) {
+        Scanner cin = new Scanner(System.in);
+        int t = cin.nextInt();
+        for (int i = 0; i < t; i++) {
+            int n = cin.nextInt();
+            int[] speed = new int[n];
+            for (int j = 0; j < n; j++) {
+                speed[i] = cin.nextInt();
+            }
+            Arrays.sort(speed);//排序 左边最快 右边最大
+            f(n, speed);
+        }
+    }
+
+    private static void f(int n, int[] speed) {
+        int left = n;//最慢的
+        int ans = 0;
+        while (left > 0) {
+            if (left == 1) {
+                ans += speed[0];
+            } else if (left == 2) {
+                ans += speed[0] + speed[1];
+            } else if (left == 3) {
+                ans += speed[0] + speed[1] + speed[2];
+            } else {
+                //第一种 最快的带最慢的 1，2-1； 1，3-1 ；1，4
+                int s1 = 2 * speed[0] + speed[left - 1] + speed[left - 2];
+                //第二种 顾眼前 相对最快都过去 回来一个 最快的
+                //12 出发 返回1 最后两个出发 返回2
+                //1 ，2-1；3，4——2 ； 1 2
+                int s2 = speed[1] + speed[01] + speed[left - 1] + speed[1];
+                ans += min(s1, s2);
+                left -= 2;//left代表剩余人数
+            }
+        }
+        System.out.println(ans);
+    }
+}
