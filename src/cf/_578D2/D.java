@@ -54,7 +54,6 @@ public class D {
             if (tamp > max) {
                 max = tamp;
             }
-
 //            print(b);
 //            System.out.println("+++++");
 //            System.out.println();
