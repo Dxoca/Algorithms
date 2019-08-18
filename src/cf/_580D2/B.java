@@ -40,7 +40,7 @@ public class B {
             }
             if (zeroCount != 0) {//有0
                 ans += abs(rec[f - 1]) - 1;
-                System.out.println(ans + zeroCount );//其中一个0是 转-1
+                System.out.println(ans + zeroCount );//其中一个0是 转-1,
             } else {//没0 最小-x 变1
                 ans += abs(rec[f - 1]) + 1;
                 System.out.println(ans);
