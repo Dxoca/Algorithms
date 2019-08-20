@@ -30,6 +30,13 @@ public class dp背包问题 {//01背包问题
         System.out.println(ans);
     }
 
+    /**
+     * DP大法 是dfs的逆过程
+     * 先算小范围 按已有的结果计算
+     * @param n
+     * @param W
+     * @return
+     */
     private static int dp(int n, int W) {
         int[][] dp = new int[n][W + 1];//四组 0~W重量
         //初始化
