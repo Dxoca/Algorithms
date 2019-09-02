@@ -35,6 +35,7 @@ public class 密码脱落 {
     public static void main(String[] args) {
         String str="ABCBA";
         int ans =solve(str);
+        System.out.println(ans);
     }
 
     /**

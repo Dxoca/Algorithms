@@ -39,7 +39,7 @@ public class _1014_福尔摩斯约会 {
                 }
             }
         }
-        //b starting
+
         int bLen = min(b1.length(), b2.length());
         for (int i = 0; i < bLen; i++) {
             if ((b1.charAt(i) >= 'a' && b1.charAt(i) <= 'z' || b1.charAt(i) >= 'A' && b1.charAt(i) <= 'Z') && b1.charAt(i) == b2.charAt(i)) {//注意大写
