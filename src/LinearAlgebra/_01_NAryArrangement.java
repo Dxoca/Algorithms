@@ -22,7 +22,7 @@ public class _01_NAryArrangement {
             series = ans.toCharArray();//数字大小 等效 char 大小 所以不对char处理
             int o = 0; //Initialize Order Number
             int t = 0; //Initialize Reverse Order Number(τ)
-
+//
             // Calculus the Order Number and the Reverse Order Number:
             // 计算顺序数个逆序数的个数
             for (int i = 0; i < series.length - 1; i++) {//共 n-1个数字比较
