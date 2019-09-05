@@ -12,7 +12,6 @@ public class dp背包问题 {//01背包问题
     static int[][] rec;
 
     public static void main(String[] args) {
-
         //dp 做法
         int ans = dfs(0, W);
         System.out.println(ans);
@@ -73,7 +72,6 @@ public class dp背包问题 {//01背包问题
         } else {
             return v2;
         }
-
     }
 
     /**
