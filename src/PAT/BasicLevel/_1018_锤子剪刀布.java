@@ -6,37 +6,37 @@ public class _1018_锤子剪刀布 {
     public static void main(String[] args) {
         Scanner cin = new Scanner(System.in);
         int n = cin.nextInt();
-        int[] A = new int[3];//胜 平 败
-
-        int[] winA = new int[3];//b c j
-        int[] winB = new int[3];//b c j
+        int[] A = new int[3];//胜 平 败 //甲
+        int[] winA = new int[3];//b c j//甲
+        int[] winB = new int[3];//b c j//乙
         char[] sign={'B','C','J'};
         while (n-- > 0) {
-            String a = cin.next();
-            String b = cin.next();
+            char a = cin.next().charAt(0);
+
+            char b = cin.next().charAt(0);
             switch (a) {
-                case "B":
+                case 'B'://布
                     if (b == a) {//平局
                         A[1]++;
-                    } else if (b == "J") {A[2]++;winB[2]++;}//输了
+                    } else if (b == 'J') {A[2]++;winB[2]++;}//输了
                     else {
                         A[0]++;
                         winA[0]++;
                     }//赢了
                     break;
-                case "J":
+                case 'J':
                     if (b == a) {//平局
                         A[1]++;
-                    } else if (b == "C") {A[2]++;winB[1]++;}//输了
+                    } else if (b == 'C') {A[2]++;winB[1]++;}//输了
                     else {
                         A[0]++;
                         winA[2]++;
                     }//赢了
                     break;
-                case "C":
+                case 'C':
                     if (b == a) {//平局
                         A[1]++;
-                    } else if (b == "B") {A[2]++;winB[0]++;}//输了
+                    } else if (b == 'B') {A[2]++;winB[0]++;}//输了
                     else {
                         A[0]++;
                         winA[1]++;
@@ -59,7 +59,7 @@ public class _1018_锤子剪刀布 {
             }
         }
         System.out.println(A[0] + " " + A[1] + " " + A[2]);
-        System.out.println(A[2] + " " + A[1] + " " + A[1]);
+        System.out.println(A[2] + " " + A[1] + " " + A[0]);
         System.out.println(sign[tA]+" "+sign[tB]);
     }
 }
