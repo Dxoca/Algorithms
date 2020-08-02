@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4b7c083-5b92-41a0-b146-bfd8507705b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/_1_两数之和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NowCoder/_41a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NowCoder/普及组_模拟1/_NOIP2004不高兴的津津.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NowCoder/普及组_模拟1/_NOIP2004花生采集.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NowCoder/普及组_模拟1/_NOIP2005校门外的叔.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NowCoder/普及组_模拟1/_NOIP2005陶陶摘苹果.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HDU/_1576_ADivideB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HDU/_1576_ADivideB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/_60_第k个排列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/_60_第k个排列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>全排列</find>
+      <find>最短</find>
+      <find>lcm</find>
+      <find>1, 9, 4, 9</find>
+      <find>9, 4, 9, 1]</find>
+      <find>9, 4, 9, 1</find>
+      <find>1, 9, 9, 4</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="ProjectId" id="1fWvMKfR36rBT0lPJVKLqBxidDR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LeetCode" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/../LeetCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\myCode\Algorithms" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="NowCoder.普及组_模拟1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PAT" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\myCode\Algorithms\src\CometOJ" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application._NOIP2005校门外的叔">
+    <configuration name="最长上升子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlueCup.Eight_DP_greed.最长上升子序列" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BlueCup.Eight_DP_greed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CometOJ._12_.A" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CometOJ._12_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数字三角形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlueCup.Eight_DP_greed.数字三角形" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BlueCup.Eight_DP_greed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="钢条切割问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlueCup.Eight_DP_greed.钢条切割问题" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BlueCup.Eight_DP_greed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="乘船问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlueCup.Eight_DP_greed.乘船问题" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BlueCup.Eight_DP_greed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长上升子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlueCup.Eight_DP_greed.最长上升子序列" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BlueCup.Eight_DP_greed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="瓷砖铺放" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlueCup.Seven_recursion.Test.瓷砖铺放" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BlueCup.Seven_recursion.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="贪心硬币问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlueCup.Eight_DP_greed.贪心硬币问题" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BlueCup.Eight_DP_greed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1_两数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode._1_两数之和" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_41a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NowCoder._41a" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NowCoder.普及组_模拟1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_NOIP2005校门外的叔" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NowCoder.普及组_模拟1._NOIP2005校门外的叔" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NowCoder.普及组_模拟1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._NOIP2005校门外的叔" />
+        <item itemvalue="Application._41a" />
+        <item itemvalue="Application._1_两数之和" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.A" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4b7c083-5b92-41a0-b146-bfd8507705b2" name="Default Changelist" comment="" />
+      <created>1561546808612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561546808612</updated>
+      <workItem from="1561546809730" duration="920000" />
+      <workItem from="1561547762012" duration="3791000" />
+      <workItem from="1561558540369" duration="1501000" />
+      <workItem from="1561619603033" duration="2268000" />
+      <workItem from="1561629287929" duration="1627000" />
+      <workItem from="1561719432345" duration="6754000" />
+      <workItem from="1561872190687" duration="19557000" />
+      <workItem from="1562061102802" duration="2837000" />
+      <workItem from="1562119012836" duration="21247000" />
+      <workItem from="1562301365914" duration="7252000" />
+      <workItem from="1562377455908" duration="8274000" />
+      <workItem from="1562400117129" duration="2800000" />
+      <workItem from="1562403362525" duration="11161000" />
+      <workItem from="1562474325565" duration="3441000" />
+      <workItem from="1562482195365" duration="2703000" />
+      <workItem from="1562559351738" duration="11834000" />
+      <workItem from="1562642255090" duration="15662000" />
+      <workItem from="1562807878474" duration="10403000" />
+      <workItem from="1562909449239" duration="20002000" />
+      <workItem from="1563196271344" duration="5160000" />
+      <workItem from="1563244395347" duration="2703000" />
+      <workItem from="1563377964389" duration="254000" />
+      <workItem from="1563440762525" duration="1387000" />
+      <workItem from="1563682153839" duration="8545000" />
+      <workItem from="1563850986377" duration="6107000" />
+      <workItem from="1563944309188" duration="5934000" />
+      <workItem from="1564029435893" duration="14388000" />
+      <workItem from="1564218364478" duration="8423000" />
+      <workItem from="1564290182370" duration="11203000" />
+      <workItem from="1564371706789" duration="11652000" />
+      <workItem from="1564449316436" duration="12416000" />
+      <workItem from="1564540772185" duration="4395000" />
+      <workItem from="1564649971711" duration="5137000" />
+      <workItem from="1564718324201" duration="17549000" />
+      <workItem from="1564790366082" duration="6834000" />
+      <workItem from="1564807522260" duration="10872000" />
+      <workItem from="1564890032376" duration="15203000" />
+      <workItem from="1564977183364" duration="14145000" />
+      <workItem from="1565073086035" duration="8457000" />
+      <workItem from="1565152638402" duration="10160000" />
+      <workItem from="1565238758079" duration="9649000" />
+      <workItem from="1565254270141" duration="13016000" />
+      <workItem from="1565351034395" duration="6821000" />
+      <workItem from="1565406797735" duration="18223000" />
+      <workItem from="1565453078849" duration="802000" />
+      <workItem from="1565492364507" duration="19335000" />
+      <workItem from="1565582371336" duration="9452000" />
+      <workItem from="1565621923787" duration="51000" />
+      <workItem from="1565622006199" duration="122000" />
+      <workItem from="1565622169264" duration="4687000" />
+      <workItem from="1565674508291" duration="4361000" />
+      <workItem from="1565694734389" duration="8774000" />
+      <workItem from="1565757662112" duration="3300000" />
+      <workItem from="1565950970386" duration="2373000" />
+      <workItem from="1566018763495" duration="2440000" />
+      <workItem from="1566021406003" duration="1462000" />
+      <workItem from="1566120574570" duration="9503000" />
+      <workItem from="1566192869978" duration="8463000" />
+      <workItem from="1566220621032" duration="3286000" />
+      <workItem from="1566273156222" duration="2773000" />
+      <workItem from="1566304375000" duration="9202000" />
+      <workItem from="1566373321043" duration="7842000" />
+      <workItem from="1566452442342" duration="3600000" />
+      <workItem from="1566477611026" duration="15676000" />
+      <workItem from="1567249512429" duration="5985000" />
+      <workItem from="1567261541791" duration="597000" />
+      <workItem from="1567347611704" duration="3546000" />
+      <workItem from="1567395973071" duration="4502000" />
+      <workItem from="1567435703097" duration="700000" />
+      <workItem from="1567518539075" duration="3111000" />
+      <workItem from="1567607850835" duration="2240000" />
+      <workItem from="1567687820926" duration="800000" />
+      <workItem from="1567691294572" duration="3939000" />
+      <workItem from="1568035887942" duration="4310000" />
+      <workItem from="1568209946140" duration="8296000" />
+      <workItem from="1568283899490" duration="2757000" />
+      <workItem from="1568732462565" duration="985000" />
+      <workItem from="1568894448419" duration="7495000" />
+      <workItem from="1569063804367" duration="1101000" />
+      <workItem from="1569241410951" duration="4099000" />
+      <workItem from="1569334370954" duration="387000" />
+      <workItem from="1569581352954" duration="329000" />
+      <workItem from="1570877922646" duration="5698000" />
+      <workItem from="1571804430243" duration="4589000" />
+      <workItem from="1582716862617" duration="5691000" />
+      <workItem from="1582794814439" duration="3861000" />
+      <workItem from="1585741542148" duration="1333000" />
+      <workItem from="1588923337529" duration="1951000" />
+      <workItem from="1594087771803" duration="693000" />
+      <workItem from="1594089803797" duration="46000" />
+      <workItem from="1594089880343" duration="1120000" />
+      <workItem from="1596346617545" duration="10655000" />
+      <workItem from="1596381644003" duration="2790000" />
+    </task>
+    <task id="LOCAL-00073" summary="不模拟的水题">
+      <created>1564068646200</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1564068646201</updated>
+    </task>
+    <task id="LOCAL-00074" summary="欧几里得 入门">
+      <created>1564155123363</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1564155123363</updated>
+    </task>
+    <task id="LOCAL-00075" summary="欧几里得 入门">
+      <created>1564157007070</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1564157007070</updated>
+    </task>
+    <task id="LOCAL-00076" summary="逆元">
+      <created>1564224757275</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1564224757276</updated>
+    </task>
+    <task id="LOCAL-00077" summary="V1">
+      <created>1564291924060</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1564291924061</updated>
+    </task>
+    <task id="LOCAL-00078" summary="素数 质因模板">
+      <created>1564304178002</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1564304178002</updated>
+    </task>
+    <task id="LOCAL-00079" summary="素数判断 埃氏筛 求第N个素数">
+      <created>1564308109207</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1564308109208</updated>
+    </task>
+    <task id="LOCAL-00080" summary="快速幂">
+      <created>1564373678647</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1564373678648</updated>
+    </task>
+    <task id="LOCAL-00081" summary="递归 迭代">
+      <created>1564378508427</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1564378508427</updated>
+    </task>
+    <task id="LOCAL-00082" summary="up">
+      <created>1564405871779</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1564405871780</updated>
+    </task>
+    <task id="LOCAL-00083" summary="up">
+      <created>1564502483069</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1564502483070</updated>
+    </task>
+    <task id="LOCAL-00084" summary="递归 迭代 dp">
+      <created>1564661961971</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1564661961972</updated>
+    </task>
+    <task id="LOCAL-00085" summary="【所有的组合】递归 迭代 二进制巧解">
+      <created>1564732859643</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1564732859644</updated>
+    </task>
+    <task id="LOCAL-00086" summary="up">
+      <created>1564750842057</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1564750842058</updated>
+    </task>
+    <task id="LOCAL-00087" summary="up">
+      <created>1564753793799</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1564753793799</updated>
+    </task>
+    <task id="LOCAL-00088" summary="数独游戏 dfs 深度优先搜索">
+      <created>1564893473534</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1564893473534</updated>
+    </task>
+    <task id="LOCAL-00089" summary="挑战程序设计 dfs 深度优先搜索 二进制迭代">
+      <created>1564909925708</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1564909925708</updated>
+    </task>
+    <task id="LOCAL-00090" summary="挑战程序设计 dfs 深度优先搜索 二进制迭代">
+      <created>1564910044877</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1564910044877</updated>
+    </task>
+    <task id="LOCAL-00091" summary="数独游戏 dfs 深度优先搜索">
+      <created>1564910120008</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1564910120008</updated>
+    </task>
+    <task id="LOCAL-00092" summary="dfs">
+      <created>1565013600341</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1565013600342</updated>
+    </task>
+    <task id="LOCAL-00093" summary="AC">
+      <created>1565013621159</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1565013621159</updated>
+    </task>
+    <task id="LOCAL-00094" summary="wa">
+      <created>1565013633026</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1565013633026</updated>
+    </task>
+    <task id="LOCAL-00095" summary="wa">
+      <created>1565152657156</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1565152657157</updated>
+    </task>
+    <task id="LOCAL-00096" summary="wa">
+      <created>1565194760664</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1565194760666</updated>
+    </task>
+    <task id="LOCAL-00097" summary="wa">
+      <created>1565266348196</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1565266348197</updated>
+    </task>
+    <task id="LOCAL-00098" summary="up">
+      <created>1565267463447</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1565267463447</updated>
+    </task>
+    <task id="LOCAL-00099" summary="up">
+      <created>1565406903232</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1565406903232</updated>
+    </task>
+    <task id="LOCAL-00100" summary="up">
+      <created>1565420566956</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1565420566957</updated>
+    </task>
+    <task id="LOCAL-00101" summary="up">
+      <created>1565452737500</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1565452737500</updated>
+    </task>
+    <task id="LOCAL-00102" summary="up">
+      <created>1565536053496</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1565536053497</updated>
+    </task>
+    <task id="LOCAL-00103" summary="up">
+      <created>1565623353970</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1565623353971</updated>
+    </task>
+    <task id="LOCAL-00104" summary="up">
+      <created>1565694994824</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1565694994825</updated>
+    </task>
+    <task id="LOCAL-00105" summary="up">
+      <created>1565757868877</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1565757868878</updated>
+    </task>
+    <task id="LOCAL-00106" summary="wa">
+      <created>1566140184860</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1566140184861</updated>
+    </task>
+    <task id="LOCAL-00107" summary="up">
+      <created>1566142896855</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1566142896855</updated>
+    </task>
+    <task id="LOCAL-00108" summary="AC">
+      <created>1566143021823</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1566143021824</updated>
+    </task>
+    <task id="LOCAL-00109" summary="up">
+      <created>1566145498463</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1566145498463</updated>
+    </task>
+    <task id="LOCAL-00110" summary="up">
+      <created>1566211641444</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1566211641445</updated>
+    </task>
+    <task id="LOCAL-00111" summary="up">
+      <created>1566273207228</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1566273207228</updated>
+    </task>
+    <task id="LOCAL-00112" summary="up">
+      <created>1566452468802</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1566452468804</updated>
+    </task>
+    <task id="LOCAL-00113" summary="up">
+      <created>1566489568018</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1566489568019</updated>
+    </task>
+    <task id="LOCAL-00114" summary="up">
+      <created>1567251188572</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1567251188573</updated>
+    </task>
+    <task id="LOCAL-00115" summary="16分">
+      <created>1567253511217</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1567253511217</updated>
+    </task>
+    <task id="LOCAL-00116" summary="注释">
+      <created>1567521682591</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1567521682591</updated>
+    </task>
+    <task id="LOCAL-00117" summary="up">
+      <created>1567694443037</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1567694443037</updated>
+    </task>
+    <task id="LOCAL-00118" summary="wa">
+      <created>1568042951263</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1568042951264</updated>
+    </task>
+    <task id="LOCAL-00119" summary="18分">
+      <created>1568212670209</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1568212670210</updated>
+    </task>
+    <task id="LOCAL-00120" summary="up">
+      <created>1568905212723</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1568905212725</updated>
+    </task>
+    <task id="LOCAL-00121" summary="up">
+      <created>1571805722051</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1571805722055</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初级问题" />
+    <MESSAGE value="Staircase Nim" />
+    <MESSAGE value="模板" />
+    <MESSAGE value="及其扩展算线性方程" />
+    <MESSAGE value="同余式，线性方程" />
+    <MESSAGE value="线性方程计算" />
+    <MESSAGE value="不模拟的水题" />
+    <MESSAGE value="欧几里得 入门" />
+    <MESSAGE value="逆元" />
+    <MESSAGE value="V1" />
+    <MESSAGE value="素数 质因模板" />
+    <MESSAGE value="素数判断 埃氏筛 求第N个素数" />
+    <MESSAGE value="快速幂" />
+    <MESSAGE value="递归 迭代" />
+    <MESSAGE value="递归 迭代 dp" />
+    <MESSAGE value="【所有的组合】递归 迭代 二进制巧解" />
+    <MESSAGE value="挑战程序设计 dfs 深度优先搜索 二进制迭代" />
+    <MESSAGE value="数独游戏 dfs 深度优先搜索" />
+    <MESSAGE value="dfs" />
+    <MESSAGE value="AC" />
+    <MESSAGE value="16分" />
+    <MESSAGE value="注释" />
+    <MESSAGE value="wa" />
+    <MESSAGE value="18分" />
+    <MESSAGE value="up" />
+    <option name="LAST_COMMIT_MESSAGE" value="up" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="924" y="218" key="#Inspections" timestamp="1596382103375">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="924" y="218" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1596382103375" />
+    <state x="1282" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1596383627480">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1282" y="244" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1596383627480" />
+    <state width="1160" height="256" key="GridCell.Tab.0.bottom" timestamp="1596384414326">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1160" height="256" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1596384414326" />
+    <state width="1160" height="256" key="GridCell.Tab.0.center" timestamp="1596384414326">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1160" height="256" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1596384414326" />
+    <state width="1160" height="256" key="GridCell.Tab.0.left" timestamp="1596384414326">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1160" height="256" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1596384414326" />
+    <state width="1160" height="256" key="GridCell.Tab.0.right" timestamp="1596384414326">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1160" height="256" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1596384414326" />
+    <state x="1083" y="242" key="RollbackChangesDialog" timestamp="1596357151640">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1083" y="242" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596357151640" />
+    <state x="1254" y="281" key="search.everywhere.popup" timestamp="1596346709580">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1254" y="281" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1596346709580" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CometOJ/match/Contest5_A.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LuoGu/P1478.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LuoGu/P1579.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BlueCup/Five_String/_504_Replace_char32.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CometOJ/match/Contest7_B.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CometOJ/match/Contest7_B.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/POJ/_1704_GeorgiaAndBob.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CC150/_906_括号组合.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CC150/_906_括号组合.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BlueCup/Seven_recursion/Dfs2部分和.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BlueCup/Seven_recursion/Dfs4N皇后.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BlueCup/Seven_recursion/Dfs5素数环.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BlueCup/Seven_recursion/Dfs6空困难的串.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CometOJ/_8_/A.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BlueCup/Seven_recursion/Test/矩阵的最小路径和.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BlueCup/Eight_DP_greed/贪心硬币问题.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/POJ/_1700_快速过河.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CR.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CR.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BlueCup/Eight_DP_greed/区间调度问题.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cf/_578D2/D.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BlueCup/Eight_DP_greed/部分背包问题.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cf/_579D3/C.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BlueCup/Eight_DP_greed/数字三角形.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CometOJ/_12_/A.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode/_1_两数之和.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BlueCup/_403_ZPrintArr.java</url>
+          <line>16</line>
+          <properties class="BlueCup._403_ZPrintArr" method="Check">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BlueCup/Five_String/_505_Zipper.java</url>
+          <line>18</line>
+          <properties class="BlueCup.Five_String._505_Zipper" method="zipper">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BlueCup/Five_String/_508_WordReverse.java</url>
+          <line>33</line>
+          <properties class="BlueCup.Five_String._508_WordReverse" method="strsplit">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BlueCup/Five_String/_509_RemoveKZeros.java</url>
+          <line>18</line>
+          <properties class="BlueCup.Five_String._509_RemoveKZeros" method="remove2">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BlueCup/Five_String/_514_MatchKMP.java</url>
+          <line>58</line>
+          <properties class="BlueCup.Five_String._514_MatchKMP" method="ansNext">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BlueCup/Five_String/_516_Match_SuffixArray.java</url>
+          <line>75</line>
+          <properties class="BlueCup.Five_String._516_Match_SuffixArray" method="getSa">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/HihoCoder/_1485_hihoString.java</url>
+          <line>33</line>
+          <properties class="HihoCoder._1485_hihoString" method="checkShort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/CC150/_704_硬币问题.java</url>
+          <line>88</line>
+          <properties class="CC150._704_硬币问题" method="countWays2">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BlueCup/Eight_DP_greed/区间调度问题.java</url>
+          <line>9</line>
+          <properties class="BlueCup.Eight_DP_greed.区间调度问题" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/cf/EDU71D2/A.java</url>
+          <line>5</line>
+          <properties class="cf.EDU71D2.A" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/NowCoder/普及组_模拟1/_NOIP2005校门外的叔.java</url>
+          <line>41</line>
+          <properties class="NowCoder.普及组_模拟1._NOIP2005校门外的叔" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="suffixArray" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

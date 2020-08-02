@@ -22,7 +22,7 @@ public class _1576_ADivideB {
      * a与mo是素数
      */
     public static long inverseElement(long a, long mo) throws Exception {
-        long d = LinearEquation(a, mo, 1);//ax+mo*y=1
+        long d = LinearEquation(a, mo,  1);//ax+mo*y=1
         x = (x % mo + mo) % mo;//保证x>0 /x就是逆元 逆元是关于模的倒数
         return d;
     }
