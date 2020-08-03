@@ -19,17 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4b7c083-5b92-41a0-b146-bfd8507705b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/_1_两数之和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NowCoder/_41a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NowCoder/普及组_模拟1/_NOIP2004不高兴的津津.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NowCoder/普及组_模拟1/_NOIP2004花生采集.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NowCoder/普及组_模拟1/_NOIP2005校门外的叔.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NowCoder/普及组_模拟1/_NOIP2005陶陶摘苹果.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HDU/_1576_ADivideB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HDU/_1576_ADivideB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/_60_第k个排列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/_60_第k个排列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+    <list default="true" id="d4b7c083-5b92-41a0-b146-bfd8507705b2" name="Default Changelist" comment="up">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Dxoca.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Dxoca.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/NowCoder/普及组_模拟1/_NOIP2005校门外的叔$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/NowCoder/普及组_模拟1/_NOIP2005校门外的叔$MyPair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/NowCoder/普及组_模拟1/_NOIP2005校门外的叔$MyPair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/NowCoder/普及组_模拟1/_NOIP2005校门外的叔.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/NowCoder/普及组_模拟1/_NOIP2005校门外的叔.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NowCoder/普及组_模拟1/_NOIP2005校门外的叔.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NowCoder/普及组_模拟1/_NOIP2005校门外的树.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +115,7 @@
       <recent name="E:\myCode\Algorithms\src\CometOJ" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._NOIP2005校门外的叔">
+  <component name="RunManager">
     <configuration name="最长上升子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlueCup.Eight_DP_greed.最长上升子序列" />
       <module name="Algorithms" />
@@ -250,8 +246,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_NOIP2005校门外的叔" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NowCoder.普及组_模拟1._NOIP2005校门外的叔" />
+    <configuration name="_NOIP2005校门外的树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NowCoder.普及组_模拟1._NOIP2005校门外的树" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
@@ -272,7 +268,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._NOIP2005校门外的叔" />
+        <item itemvalue="Application._NOIP2005校门外的树" />
         <item itemvalue="Application._41a" />
         <item itemvalue="Application._1_两数之和" />
         <item itemvalue="Application.test" />
@@ -382,14 +378,8 @@
       <workItem from="1594089803797" duration="46000" />
       <workItem from="1594089880343" duration="1120000" />
       <workItem from="1596346617545" duration="10655000" />
-      <workItem from="1596381644003" duration="2790000" />
-    </task>
-    <task id="LOCAL-00073" summary="不模拟的水题">
-      <created>1564068646200</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1564068646201</updated>
+      <workItem from="1596381644003" duration="3294000" />
+      <workItem from="1596416419684" duration="6086000" />
     </task>
     <task id="LOCAL-00074" summary="欧几里得 入门">
       <created>1564155123363</created>
@@ -727,7 +717,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571805722055</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="up">
+      <created>1596384510685</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1596384510685</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -792,30 +789,54 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="924" y="218" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1596382103375" />
-    <state x="1282" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1596383627480">
+    <state x="919" y="161" key="#_NOIP2005校门外的叔" timestamp="1596418666885">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1282" y="244" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1596383627480" />
-    <state width="1160" height="256" key="GridCell.Tab.0.bottom" timestamp="1596384414326">
+    <state x="919" y="161" key="#_NOIP2005校门外的叔/0.0.1920.1080@0.0.1920.1080" timestamp="1596418666885" />
+    <state x="1282" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1596417148008">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1160" height="256" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1596384414326" />
-    <state width="1160" height="256" key="GridCell.Tab.0.center" timestamp="1596384414326">
+    <state x="1282" y="244" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1596417148008" />
+    <state width="1160" height="189" key="GridCell.Tab.0.bottom" timestamp="1596422019091">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1160" height="256" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1596384414326" />
-    <state width="1160" height="256" key="GridCell.Tab.0.left" timestamp="1596384414326">
+    <state width="1160" height="189" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1596422019091" />
+    <state width="1160" height="189" key="GridCell.Tab.0.center" timestamp="1596422019090">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1160" height="256" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1596384414326" />
-    <state width="1160" height="256" key="GridCell.Tab.0.right" timestamp="1596384414326">
+    <state width="1160" height="189" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1596422019090" />
+    <state width="1160" height="189" key="GridCell.Tab.0.left" timestamp="1596422019090">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1160" height="256" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1596384414326" />
+    <state width="1160" height="189" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1596422019090" />
+    <state width="1160" height="189" key="GridCell.Tab.0.right" timestamp="1596422019090">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1160" height="189" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1596422019090" />
+    <state width="1160" height="324" key="GridCell.Tab.1.bottom" timestamp="1596420284244">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1160" height="324" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1596420284244" />
+    <state width="1160" height="324" key="GridCell.Tab.1.center" timestamp="1596420284244">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1160" height="324" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1596420284244" />
+    <state width="1160" height="324" key="GridCell.Tab.1.left" timestamp="1596420284244">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1160" height="324" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1596420284244" />
+    <state width="1160" height="324" key="GridCell.Tab.1.right" timestamp="1596420284244">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1160" height="324" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1596420284244" />
     <state x="1083" y="242" key="RollbackChangesDialog" timestamp="1596357151640">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1083" y="242" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596357151640" />
+    <state x="890" y="272" key="Vcs.Push.Dialog.v2" timestamp="1596384523679">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="890" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1596384523679" />
     <state x="1254" y="281" key="search.everywhere.popup" timestamp="1596346709580">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -954,6 +975,11 @@
           <line>5</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/NowCoder/普及组_模拟1/_NOIP2005校门外的树.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/BlueCup/_403_ZPrintArr.java</url>
           <line>16</line>
@@ -1033,14 +1059,6 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/NowCoder/普及组_模拟1/_NOIP2005校门外的叔.java</url>
-          <line>41</line>
-          <properties class="NowCoder.普及组_模拟1._NOIP2005校门外的叔" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="61" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
