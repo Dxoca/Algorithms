@@ -20,20 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4b7c083-5b92-41a0-b146-bfd8507705b2" name="Default Changelist" comment="up">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/_5483整理字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/_5484找出第n个k精致字符串中的k位.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/_5486切棍最小成本.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NowCoder/普及组2_模拟2/_2接水问题.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Dxoca.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Dxoca.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/NowCoder/普及组_模拟1/_NOIP2004不高兴的津津.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/NowCoder/普及组_模拟1/_NOIP2004不高兴的津津.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/NowCoder/普及组_模拟1/_NOIP2004花生采集.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/NowCoder/普及组_模拟1/_NOIP2004花生采集.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/NowCoder/普及组_模拟1/_NOIP2005校门外的叔$MyPair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/NowCoder/普及组_模拟1/_NOIP2005校门外的叔.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NowCoder/普及组_模拟1/_NOIP2004不高兴的津津.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NowCoder/普及组_模拟1/_NOIP2004不高兴的津津.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NowCoder/普及组_模拟1/_NOIP2004花生采集.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NowCoder/普及组_模拟1/_NOIP2004花生采集.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/_5484找出第n个k精致字符串中的k位.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/_5484找出第n个k精致字符串中的k位.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode/_5486切棍最小成本.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NowCoder/普及组2_模拟2/_2接水问题.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NowCoder/普及组2_模拟2/_2接水问题.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,20 +102,7 @@
       <recent name="E:\myCode\Algorithms\src\CometOJ" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="钢条切割问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BlueCup.Eight_DP_greed.钢条切割问题" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BlueCup.Eight_DP_greed.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._2接水问题">
     <configuration name="乘船问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlueCup.Eight_DP_greed.乘船问题" />
       <module name="Algorithms" />
@@ -191,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_41a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NowCoder._41a" />
+    <configuration name="_2接水问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NowCoder.普及组2_模拟2._2接水问题" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NowCoder.普及组_模拟1.*" />
+          <option name="PATTERN" value="NowCoder.普及组2_模拟2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._2接水问题" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application._NOIP2004不高兴的津津" />
         <item itemvalue="Application._1_两数之和" />
         <item itemvalue="Application._NOIP2005校门外的树" />
-        <item itemvalue="Application._41a" />
       </list>
     </recent_temporary>
   </component>
@@ -368,14 +345,7 @@
       <workItem from="1596594331910" duration="1289000" />
       <workItem from="1596596549220" duration="573000" />
       <workItem from="1596940405253" duration="3997000" />
-      <workItem from="1597026022384" duration="323000" />
-    </task>
-    <task id="LOCAL-00075" summary="欧几里得 入门">
-      <created>1564157007070</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1564157007070</updated>
+      <workItem from="1597026022384" duration="3997000" />
     </task>
     <task id="LOCAL-00076" summary="逆元">
       <created>1564224757275</created>
@@ -713,7 +683,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596422553263</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="up">
+      <created>1597026363672</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1597026363673</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -830,14 +807,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1083" y="242" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596357151640" />
-    <state x="890" y="272" key="Vcs.Push.Dialog.v2" timestamp="1596422557426">
+    <state x="890" y="272" key="Vcs.Push.Dialog.v2" timestamp="1597026365415">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="890" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1596422557426" />
-    <state x="1412" y="254" key="run.anything.popup" timestamp="1596431209335">
+    <state x="890" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1597026365415" />
+    <state x="1412" y="254" key="run.anything.popup" timestamp="1597028918522">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1412" y="254" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1596431209335" />
+    <state x="1412" y="254" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1597028918522" />
     <state x="1254" y="281" key="search.everywhere.popup" timestamp="1596346709580">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

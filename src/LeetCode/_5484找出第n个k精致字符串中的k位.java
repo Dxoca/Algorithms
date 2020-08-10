@@ -3,7 +3,7 @@ package LeetCode;
 public class _5484找出第n个k精致字符串中的k位 {
 }
 
-class Solution {
+class Solutions {
     public char findKthBit(int n, int k) {
         StringBuilder sb = new StringBuilder("0");//s1
         StringBuilder t;
